@@ -10,6 +10,10 @@
 
 O Move it é uma aplicação web desenvolvida para pessoas que passam muito tempo em frente ao computador realizarem exercícios frequentemente.
 
+## :dart: Objetivo do Projeto
+
+O objetivo deste projeto foi aprimorar meu aprendizado nas tecnologias utilizadas: React, Next.js e Typescript.
+
 ## :computer: Tecnologias
 
 - React
